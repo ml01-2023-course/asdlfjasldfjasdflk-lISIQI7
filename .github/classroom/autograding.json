@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "adfadf",
+      "setup": "sudo -H pip3 install pytest nbmake numpy",
+      "run": "pytest --nbmake first-assignment.ipynb ",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
